@@ -1,0 +1,27 @@
+2023/01/13-09:53:28.559 ba6 Reusing MANIFEST /home/mel/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/13-09:53:28.560 ba6 Recovering log #107
+2023/01/13-09:53:28.560 ba6 Reusing old log /home/mel/.config/discord/Local Storage/leveldb/000107.log 
+2023/01/13-09:54:29.199 1018 Level-0 table #111: started
+2023/01/13-09:54:29.214 1018 Level-0 table #111: 17185 bytes OK
+2023/01/13-09:54:29.215 1018 Delete type=0 #107
+2023/01/13-09:55:57.921 1018 Level-0 table #113: started
+2023/01/13-09:55:57.931 1018 Level-0 table #113: 1327862 bytes OK
+2023/01/13-09:55:57.934 1018 Delete type=0 #110
+2023/01/13-09:55:57.935 1018 Compacting 4@0 + 1@1 files
+2023/01/13-09:55:57.948 1018 Generated table #114@0: 111 keys, 1395262 bytes
+2023/01/13-09:55:57.948 1018 Compacted 4@0 + 1@1 files => 1395262 bytes
+2023/01/13-09:55:57.948 1018 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/13-09:55:57.949 1018 Delete type=2 #105
+2023/01/13-09:55:57.949 1018 Delete type=2 #111
+2023/01/13-09:55:57.949 1018 Delete type=2 #113
+2023/01/13-09:55:57.949 1018 Delete type=2 #108
+2023/01/13-09:55:57.949 1018 Delete type=2 #103
+2023/01/13-11:20:55.871 1c7c Level-0 table #116: started
+2023/01/13-11:20:55.886 1c7c Level-0 table #116: 36681 bytes OK
+2023/01/13-11:20:55.888 1c7c Delete type=0 #112
+2023/01/13-14:48:43.799 27e2 Level-0 table #118: started
+2023/01/13-14:48:43.826 27e2 Level-0 table #118: 1333466 bytes OK
+2023/01/13-14:48:43.828 27e2 Delete type=0 #115
+2023/01/13-15:07:26.069 283d Level-0 table #120: started
+2023/01/13-15:07:26.116 283d Level-0 table #120: 16440 bytes OK
+2023/01/13-15:07:26.117 283d Delete type=0 #117

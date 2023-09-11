@@ -1,0 +1,17 @@
+version 11
+grid True
+music_volume 85
+sound_volume 85
+left_hand False
+enter_speed_index 0
+move_delay 70
+allow_skipping_animation False
+vsync 1
+fullscreen True
+slot 1
+language EN
+instant_zoom False
+disable_particles False
+disable_inspect False
+disable_eye_movement False
+#

@@ -1,0 +1,40 @@
+version 6
+demo3
+recent_area _Demo_End
+unlock_puzzles 0
+randomize 0
+randomize_music 0
+playtime 3040.084
+nexus_unlocked 0
+
+-section levels
+cage 1 1
+cannon 1 1
+cannon2 1 1
+careful_cannon 1 1
+carry 1 1
+correct_placement 1 1
+elbow_finish_idiom 1 1
+enter 1 1
+enter_two_sides 1 1
+exit_and_push_2 1 1
+first_puzzle 1 1
+load_elbow 1 1
+lock_3 1 1
+lock_door 1 1
+nest_two 1 1
+puzzlescript 1 1
+ref 1 1
+ref_static 1 1
+ref_turn_around 1 1
+ref2 1 1
+rescue 1 1
+round_corners 1 1
+second_puzzle 1 1
+separate 1 1
+squash_inside_2 1 1
+squash_inside_3 1 1
+third_puzzle 1 1
+turn_around 1 1
+two_peel_careful 1 1
+two_peel_easy 1 1
